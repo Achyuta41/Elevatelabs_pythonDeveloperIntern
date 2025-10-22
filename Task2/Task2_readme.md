@@ -9,6 +9,6 @@ A simple console-based Python application to manage tasks. Users can add, remove
 -   `todo.py`: Main Python script.
 -   `to-doList.txt`: Stores tasks (generated automatically).
 ## Example
-![alt text](output\addTask.png)
+! [alt text] (output\addTask.png)
 
-![alt text](output\viewTask.png)
+! [alt text] (output\viewTask.png)
