@@ -1,0 +1,10 @@
+
+########## Your TODO List ##########
+------------------------------------
+1.Wakeup early morning
+2.Eat Breakfast
+3.Solve 2 easy and 1 medium level leetcode problem
+4.Learn two pointer concepts
+5.Study DSA for 2 hours
+6.Create a new system design 
+7.Take lunch
