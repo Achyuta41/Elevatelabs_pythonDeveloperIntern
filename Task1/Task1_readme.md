@@ -13,7 +13,7 @@ Build a simple command-line calculator that performs basic arithmetic operations
 ---
 
 ## 📂 Deliverable  
-- `calculator_cli_appS.py`
+- `calculator_cli_app.py`
 
 ---
 
@@ -29,12 +29,13 @@ Build a simple command-line calculator that performs basic arithmetic operations
 1. Open the terminal in the task folder.  
 2. Run the Python file using:  
    ```bash
-   python calculator_cli_appS.py
+   python calculator_cli_app.py
 ---
 
 ## 🎯 Sample Outputs:
 
  ![alt text](output/sample_output1.jpg)
+
 
 
 
