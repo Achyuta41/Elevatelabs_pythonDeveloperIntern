@@ -25,6 +25,6 @@ You can install dependencies using:
 ![alt text](output/textFile.png)
 
 ### Console Output  
-![alt text](/output/top4_extraction.png)
+![alt text](/output/top4extraction.png)
 
-![alt text](/output/top6_extraction.png)
+![alt text](/output/top6extraction.png)
