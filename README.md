@@ -5,7 +5,7 @@
 
 ### 📘 Overview
 
-This repository contains all tasks, projects, and learning materials completed during my Machine Learning Internship at Cognifyz Technologies.
+This repository contains all tasks, projects, and learning materials completed during my python developer Internship in Elevatelabs
 
 
 
