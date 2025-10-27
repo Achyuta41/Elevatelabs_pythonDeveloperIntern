@@ -32,7 +32,7 @@ To analyze and visualize education data stored in a CSV file to derive insights 
 
 **File:** `education_data.csv`  
 
-![alt text]('output/dataInfo.png')
+![alt text](output/dataInfo.png)
 
 
 ### Example Columns:
