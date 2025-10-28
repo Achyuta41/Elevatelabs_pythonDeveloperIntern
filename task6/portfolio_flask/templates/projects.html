@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Projects - Achyuta K</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/about">About</a>
+        </nav>
+    </header>
+
+    <section class="projects">
+        <h2>My Projects</h2>
+
+        <div class="project-card">
+            <h3>🌍 Satellite Image Processing using YOLOv11</h3>
+            <p>
+                Developed an AI-powered model for classifying and detecting changes in multispectral satellite images 
+                for applications in precision agriculture and environmental monitoring.
+            </p>
+        </div>
+
+       
+
+        <div class="project-card">
+            <h3>🎨 Color-Based Mask Sorter using OpenCV</h3>
+            <p>
+                Image processing project that identifies and classifies masks based on color
+                (red, green, yellow, blue) using OpenCV.
+            </p>
+        </div>
+
+        <div class="project-card">
+            <h3>🔌Simulation of multiServer Architecture using cisco packet tracer</h3>
+            <p>
+                Having the web servers,DNS server and DHCP servers to serves the respective 
+				request from the end system like PC that are connected to the 
+				Ethernet wired LAN with the help of switch. 
+            </p>
+        </div>
+
+        <a href="{{ url_for('download_resume') }}" class="btn" download>📄 Download My Resume</a>
+    </section>
+</body>
+</html>
