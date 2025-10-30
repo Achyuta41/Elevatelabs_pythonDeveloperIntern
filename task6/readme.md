@@ -61,6 +61,6 @@ portfolio_flask/
 
  ## Sample outputs
 
-![alt text](output\homePage.png)
+![alt text](output/homePage.png)
 
-![alt text](output\projectPage.png)
+![alt text](output/projectPage.png)
