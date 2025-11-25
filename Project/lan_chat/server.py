@@ -11,7 +11,7 @@ server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server.bind((HOST, PORT))
 server.listen()
 
-print(f"✅ Server started on {HOST}:{PORT}")
+print(f"✅ Server started on 198.168.56.1 :{PORT}")
 print("Waiting for clients to connect...")
 
 clients = []        # To store all connected client sockets
